@@ -1,0 +1,138 @@
+ [
+    {
+      "question": "Which club won the Champions League Final in 1997?",
+      "choice1": "FC Barcelona",
+      "choice2": "Juventus F.C.",
+      "choice3": "Borussia Dortmund",
+      "choice4": "FC Bayern Munich",
+      "answer": 3
+    },
+    {
+      "question": "Who scored the winnning goal of the Champions League final in 2006?",
+      "choice1": "Samuel Eto'o",
+      "choice2": "Juliano Balleti",
+      "choice3": "Andres iniesta",
+      "choice4": "Thierry Henry",
+      "answer": 2
+    },
+    {
+      "question": "Which country was the winner of 1992 European Cup Final?",
+      "choice1": "Germany",
+      "choice2": "France",
+      "choice3": "England",
+      "choice4": "Denmark",
+      "answer": 4
+    },
+    {
+      "question": "Which club was the runner-up at 1991 European Cup Final?",
+      "choice1": "Marseille FC",
+      "choice2": "Real Madrid CF",
+      "choice3": "Eintracht Frankfurt",
+      "choice4": "FC Bayern Munich ",
+      "answer": 1
+    },
+    {
+      "question": "What was the score between Chelsea-Barcelona in the second-leg of Champions League Semi-Finals in 2009?",
+      "choice1": "Chelsea 0 - 0 Barcelona",
+      "choice2": "Chelsea 0 - 1 Barcelona ",
+      "choice3": "Chelsea 2 - 1 Barcelona ",
+      "choice4": "Chelsea 1 - 1 Barcelona",
+      "answer": 4
+    },
+    {
+      "question": "Which team won the 2015-2016 English Premier League?",
+      "choice1": "Liverpool",
+      "choice2": "Chelsea",
+      "choice3": "Manchester City",
+      "choice4": "Leicester City",
+      "answer": 4
+    },
+    {
+      "question": "Which club was the runner-up at 2010 Champions League Final?",
+      "choice1": "FC Barcelona",
+      "choice2": "FC Bayern Munich",
+      "choice3": "Inter Milan",
+      "choice4": "Real Madrid CF",
+      "answer": 2
+    },
+    {
+      "question": "Which British football stadium was the first to host a European Cup Final?",
+      "choice1": "Anfield",
+      "choice2": "Old Traford",
+      "choice3": "Wembley",
+      "choice4": "Hampden Park",
+      "answer": 4
+    },
+    {
+      "question": "What was the score between Liverpool and A.C Milan in the first half in 2005 UCL final?",
+      "choice1": "Milan 2 - 0 Liverpool",
+      "choice2": "Milan 0 - 1 Liverpool",
+      "choice3": "Milan 3 - 0 Liverpool",
+      "choice4": "Milan 1 - 2 Liverpool",
+      "answer": 3
+    },
+    {
+      "question": "Who has the most Champions League goals ever?",
+      "choice1": "Lionel Messi",
+      "choice2": "Kaka",
+      "choice3": "Cristiano Ronaldo",
+      "choice4": "Luiz Suarez",
+      "answer": 3
+    },
+    {
+      "question": "Which football team won the la liga in 2013-2014 season?",
+      "choice1": "Real Madrid CF",
+      "choice2": "sevilla FC",
+      "choice3": "Atletico Madrid",
+      "choice4": "FC Barcelona",
+      "answer": 3
+    },
+    {
+      "question": "Who missed the first penalty for Chelsea in the finals of the UCL in 2007-2008 season ",
+      "choice1": "Didier Drogba",
+      "choice2": "John Terry",
+      "choice3": "Nicolas Anelka",
+      "choice4": "Malouda",
+      "answer": 2
+    },
+    {
+      "question": "Which Greek club did Ajax beat to win their first European Cup?",
+      "choice1": "Panathinaikos F.C.",
+      "choice2": "AEK Athenes F.C.",
+      "choice3": "Olympiacos F.C.",
+      "choice4": "Aris F.C.",
+      "answer": 1
+    },
+    {
+    "question": "Who was the coach of FC Barcelona in 1995-1996 season?",
+    "choice1": "Ronald Koeman",
+    "choice2": "Louis Van Gaal",
+    "choice3": "Johan Cruyff",
+    "choice4": "Carles Rexach",
+    "answer": 3
+    },
+    {
+      "question": "Who was the first football player to move from FC barcelona to Real Madrid CF?",
+      "choice1": "Ronaldo jr",
+      "choice2": "Luis Figo",
+      "choice3": "Luis Enrique",
+      "choice4": "Alfonso Albeniz",
+      "answer": 4
+      },
+      {
+        "question": "Which season was Real Madrid's first Champions League title",
+        "choice1": "1959-1960",
+        "choice2": "1965-1966",
+        "choice3": "1955-1956",
+        "choice4": "1991-1992",
+        "answer": 3
+        },
+        {
+          "question": "In which football club was Cristiano Ronaldo first raised",
+          "choice1": "Manchester United",
+          "choice2": "Sporting CP",
+          "choice3": "SL Benfica",
+          "choice4": "FC Porto",
+          "answer": 2
+          }
+  ]
