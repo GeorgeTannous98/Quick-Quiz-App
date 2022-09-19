@@ -1,3 +1,5 @@
-# Quick-Quiz-App-
+A small quiz application including trivia questions from different categories programmed in Javascript, HTML, CSS.
+IDE : Visual Studio Code.
 
-A small quiz application including trivia questions from different categories programmed in Javascript, HTML, CSS
+Downloaded Extension: Live Server
+To open the app please right-click on index.html and then Open with Live server
