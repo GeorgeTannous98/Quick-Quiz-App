@@ -9,11 +9,11 @@
 3) Open the browser with this [link](http://localhost:8080/)
 
 
-
-![image](https://user-images.githubusercontent.com/82344328/193714716-bac5593e-313c-448e-9d69-8ed6bcd57448.png)
-
-
-![image](https://user-images.githubusercontent.com/82344328/193714776-9adc895b-fc61-404c-82ec-fbe7e43487b1.png)
+![image](https://user-images.githubusercontent.com/82344328/193715172-8be91223-f20d-4bed-b3a5-4f866dece0ce.png)
 
 
-![image](https://user-images.githubusercontent.com/82344328/193714822-d6953708-0fb2-4954-95f1-0103a96b023b.png)
+![image](https://user-images.githubusercontent.com/82344328/193715212-9f59b123-9d2a-4f34-968f-c6e21da87a42.png)
+
+
+![image](https://user-images.githubusercontent.com/82344328/193715302-db9fc949-20f9-4d08-bfd4-ca5d3fbf4234.png)
+
