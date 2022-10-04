@@ -8,12 +8,14 @@
 
 3) Open the browser with this [link](http://localhost:8080/)
 
-
+## Screenshots
 ![image](https://user-images.githubusercontent.com/82344328/193715172-8be91223-f20d-4bed-b3a5-4f866dece0ce.png)
 
 
-![image](https://user-images.githubusercontent.com/82344328/193715212-9f59b123-9d2a-4f34-968f-c6e21da87a42.png)
+![image](https://user-images.githubusercontent.com/82344328/193715532-d3946c6c-0f86-4d46-ba36-c75b766ef752.png)
 
 
 ![image](https://user-images.githubusercontent.com/82344328/193715302-db9fc949-20f9-4d08-bfd4-ca5d3fbf4234.png)
+
+![image](https://user-images.githubusercontent.com/82344328/193715747-7bb7ce53-d52f-46d9-ba7c-29c30a5a2c4a.png)
 
