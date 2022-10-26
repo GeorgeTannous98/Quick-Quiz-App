@@ -1,13 +1,16 @@
 ## A small quiz application including trivia questions from different categories.
 
- How to run:
-1) clone/download the code.
-2) run the following command with docker and make sure to replace the folder path to the cloned/downloaded folder:
+- in order to deploy it on local machine, follow the following instructions:
+  1) clone/download the code.
+  2) run the following command with docker and make sure to replace the folder path to the cloned/downloaded folder:
 
      docker run -d -p 8080:8080 --name web-app -v "`Path/To/quiz-app`":"/usr/src/app" duaneleem/live-server:1.0
 
-3) Open the browser with this [link](http://localhost:8080/)
+  3) Open the browser with this [link](http://localhost:8080/)
 
+
+
+- in order to deploy the app on the cloud (Netlify), click on this [link](https://6355be8bebafdd4d2f992c5d--transcendent-lollipop-fd2bed.netlify.app/)
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/82344328/193715172-8be91223-f20d-4bed-b3a5-4f866dece0ce.png)
 
