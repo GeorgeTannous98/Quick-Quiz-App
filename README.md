@@ -1,6 +1,6 @@
 ## A small quiz application including trivia questions from different categories.
 
-- in order to deploy it on local machine, follow the following instructions:
+- in order to deploy it on your local machine, follow the following instructions:
   1) clone/download the code.
   2) run the following command with docker and make sure to replace the folder path to the cloned/downloaded folder:
 
