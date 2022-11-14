@@ -1,5 +1,5 @@
 ## A small quiz application including trivia questions from different categories.
-- in order to deploy the app on the cloud (Netlify), click on this [link](https://6355be8bebafdd4d2f992c5d--transcendent-lollipop-fd2bed.netlify.app/)
+- click on this [link](https://6355be8bebafdd4d2f992c5d--transcendent-lollipop-fd2bed.netlify.app/) to run the app
 
 
 - in order to deploy it on your local machine, follow the following instructions:
