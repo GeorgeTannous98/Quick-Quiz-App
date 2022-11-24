@@ -2,7 +2,7 @@
 - click on this [link](https://6355be8bebafdd4d2f992c5d--transcendent-lollipop-fd2bed.netlify.app/) to run the app
 
 
-- in order to deploy it on your local machine, follow the following instructions:
+- in order to run it on your local machine, follow the following instructions:
 1) clone/download the code.
 2) run the following command with docker and make sure to replace the folder path to the cloned/downloaded folder:
 
